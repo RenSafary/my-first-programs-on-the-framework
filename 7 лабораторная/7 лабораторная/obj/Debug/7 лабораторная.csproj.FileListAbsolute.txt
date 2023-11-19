@@ -1,0 +1,13 @@
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\bin\Debug\7 лабораторная.exe.config
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\bin\Debug\7 лабораторная.exe
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\bin\Debug\7 лабораторная.pdb
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\7 лабораторная.csproj.AssemblyReference.cache
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\_7_лабораторная.Properties.Resources.resources
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\7 лабораторная.csproj.GenerateResource.cache
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\7 лабораторная.csproj.CoreCompileInputs.cache
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\7 лабораторная.exe
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\7 лабораторная.pdb
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\_7_лабораторная.Form2.resources
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\_7_лабораторная.Form1.resources
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\_7_лабораторная.Form3.resources
+C:\Users\ilyae_000\source\repos\7 лабораторная\7 лабораторная\obj\Debug\_7_лабораторная.Form4.resources

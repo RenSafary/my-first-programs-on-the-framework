@@ -1,0 +1,13 @@
+C:\Users\ilyae_000\source\repos\3-6\3-6\bin\Debug\3-6.exe.config
+C:\Users\ilyae_000\source\repos\3-6\3-6\bin\Debug\3-6.exe
+C:\Users\ilyae_000\source\repos\3-6\3-6\bin\Debug\3-6.pdb
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\3-6.csproj.AssemblyReference.cache
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\_3_6.Form1.resources
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\_3_6.Form2.resources
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\_3_6.Properties.Resources.resources
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\3-6.csproj.GenerateResource.cache
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\3-6.csproj.CoreCompileInputs.cache
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\3-6.exe
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\3-6.pdb
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\_3_6.Form3.resources
+C:\Users\ilyae_000\source\repos\3-6\3-6\obj\Debug\_3_6.Form4.resources
